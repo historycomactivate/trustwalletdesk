@@ -55,11 +55,11 @@ Trust Wallet provides several reliable ways to get support. Here's how you can r
 
 2. **Explore the Help Center**  
    Browse through hundreds of detailed articles, tutorials, and FAQs that cover nearly every wallet feature and issue.  
-   👉 Visit: https://support.trustwallet.com
+  
 
 3. **Join the Community Forum**  
    Connect with fellow users and moderators. Many common questions are already answered in existing threads.  
-   👉 Visit: https://community.trustwallet.com
+  
 
 Tips for Getting Fast Support
 -----------------------------
