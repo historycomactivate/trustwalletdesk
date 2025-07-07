@@ -3,7 +3,7 @@ Effective Ways to Contact Trust Wallet Help: Step-by-Step Guide
 ##################
 
 .. meta::
-   :msvalidate.01: content="B6EE421CD1D380A4016F1B0EE988CE90
+   :msvalidate.01: B6EE421CD1D380A4016F1B0EE988CE90
 
 .. image:: blank.png
       :width: 350px
