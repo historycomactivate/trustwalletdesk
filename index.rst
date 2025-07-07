@@ -11,7 +11,7 @@ Effective Ways to Contact Trust Wallet Help: Step-by-Step Guide
       :height: 20px
 
 ##################
-Contact Support: +1-870-406-6577
+Contact Support: +1-870-406-6577 (Toll Free)
 ##################
 
 
